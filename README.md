@@ -29,8 +29,9 @@ n x i = in
 ```
 <br>
 
-4. Faça um programa para calcular o valor de **A**, onde:
-$A = \frac{1}{1} + \frac{3}{2} + \frac{5}{3} + \frac{7}{4} + \dots + \frac{49}{25}$
+4. Faça um programa para calcular o valor de **A**, onde: 
+<img src = https://latex.codecogs.com/png.image?\dpi{110}A&space;=&space;\frac{1}{1}&space;&plus;&space;\frac{3}{2}&space;&plus;&space;\frac{5}{3}&space;&plus;&space;\frac{7}{4}&space;&plus;&space;\dots&space;&plus;&space;\frac{49}{25}>
+
 ```
 Obs.: Para conferência, o resultado de A deve ser igual a 46,184032
 ```
