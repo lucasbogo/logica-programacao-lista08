@@ -30,7 +30,7 @@ n x i = in
 <br>
 
 4. Faça um programa para calcular o valor de **A**, onde:
-<sub>A = \frac{1}{1} + \frac{3}{2} + \frac{5}{} + \frac{7}{4} + \dots + \frac{49}{25}</sub>
+$A = \frac{1}{1} + \frac{3}{2} + \frac{5}{3} + \frac{7}{4} + \dots + \frac{49}{25}
 ```
 Obs.: Para conferência, o resultado de A deve ser igual a 46,184032
 ```
