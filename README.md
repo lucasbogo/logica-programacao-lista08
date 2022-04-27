@@ -30,29 +30,29 @@ n x i = in
 <br>
 
 4. Faça um programa para calcular o valor de **A**, onde:
-A = \frac{1}{1} + \frac{3}{2} + \frac{5}{} + \frac{7}{4} + \dots + \frac{49}{25}
+<sub>A = \frac{1}{1} + \frac{3}{2} + \frac{5}{} + \frac{7}{4} + \dots + \frac{49}{25}</sub>
+```
+Obs.: Para conferência, o resultado de A deve ser igual a 46,184032
+```
 
 
-5. Para um grupo indeterminado de pessoas descobrir:
-    <ol>
-        <li> O mais gordo;
-        <li> O mais magro;
-        <li> A mulher mais nova;
-        <li> O homem mais velho
+5. Dada uma faixa de valores, cujo valor inicial e o valor final deverão ser fornecidos pelo usuário, identifique:
+    <ol type =a>
+        <li> a quantidade de números inteiros e positivos;
+        <li> a quantidade de números pares;
+        <li> a quantidade de números ímpares;
+        <li> a quantidade de números ímpares e divisíveis por 3 e 4 ao mesmo tempo;
+        <li> a respectiva média para cada um dos itens.
    </ol>
-Utilize a opção de solicitar ao usuário se deseja ler os dados de mais uma pessoa para continuar o programa.
 <br>
 
-6. Foi realizada uma pesquisa de algumas características físicas da população de uma certa região. Foram entrevistadas 50 pessoas e coletados os seguintes dados:
-    <ol>
-        <li> Sexo: M (Masculino) e F (Feminino);
-        <li> Cor do olhos: A (Azuis), V (Verdes), P (Pretos) e C (Castanhos);
-        <li> Cor dos cabelos: L (Louros), C (Castanhos) e P (Pretos);
-        <li> Idade.
-   </ol>
-Deseja-se saber:
-    <ol>
-        <li> A menor idade do grupo;
-        <li> A quantidade de indivíduos do sexo masculino, cuja idade está entre 16 e 24 anos e que tenham olhos azuis e cabelos castanhos;
-        <li> A quantidade de indivíduos do sexo femenino, cuja idade seja menor que 40 anos e que tenham olhos e cabelos pretos;
-   </ol> 
+6. Faça um programa que mostre os conceitos finais dos alunos de uma sala de aula de 40 pessoas, considerando a tabela a seguir. Para isso, a nota final e o código do aluno deverão ser fornecidos pelo usuário. Ao final do programa, apresente a quantidade de alunos e a média de nota alcançada para cada conceito.
+
+| Nota                      | Conceito  | 
+|---------------------------|-----------|
+| De 0,0 a 2,9              |   E       |
+| De 3,0 a 4,9              |   D       | 
+| De 5,0 a 6,9              |   C       | 
+| De 7,0 a 8,9              |   B       |
+| De 9,0 a 10,0             |   A       | 
+   
