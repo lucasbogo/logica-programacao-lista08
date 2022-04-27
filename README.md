@@ -36,7 +36,7 @@ n x i = in
 ```
 Obs.: Para conferência, o resultado de A deve ser igual a 46,184032
 ```
-
+<br>
 
 5. Dada uma faixa de valores, cujo valor inicial e o valor final deverão ser fornecidos pelo usuário, identifique:
     <ol type =a>
