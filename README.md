@@ -30,7 +30,7 @@ n x i = in
 <br>
 
 4. Faça um programa para calcular o valor de **A**, onde:
-A= \frac{1}{1} + \frac{3}{2} + \frac{5}{} + \frac{7}{4} + \dots + \frac{49}{25}
+A = \frac{1}{1} + \frac{3}{2} + \frac{5}{} + \frac{7}{4} + \dots + \frac{49}{25}
 
 
 5. Para um grupo indeterminado de pessoas descobrir:
